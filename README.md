@@ -1,10 +1,15 @@
-### Olá, eu sou o William Mello!!! 👋
+<div>
+<h1>Olá, eu sou o William Mello!!! 👋</h1>
 
- <div>
+- Conhecimentos básicos em HTML5, CSS3, JS e Python;<br>
+- Atualmente trabalhando e estudando JAVA e Dart;<br>
+</div>
+
+<div style="display: inline_block"><br>
   <a href="https://github.com/MelloWill36">
-  <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelloWill36&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelloWill36&layout=compact&langs_count=16&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelloWill36&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelloWill36&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelloWill36&layout=compact&langs_count=16&theme=dark"/>
+
 </div>
 <div style="display: inline_block"><br>
 
