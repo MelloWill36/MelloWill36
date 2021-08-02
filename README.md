@@ -1,7 +1,7 @@
 <div>
 <h1>Olá, eu sou o William Mello!!! 👋</h1>
 👨‍🎓 6/6 período <b>Design Gráfico</b> pela UTFPR;<br>
-👨‍🎓 2/6 período <b>Análise e Desenvimento de Sistemas</b> pela UniDomBosco;<br>
+👨‍🎓 2/6 período <b>Análise e Desenvolvimento de Sistemas</b> pela UniDomBosco;<br>
 👨‍💻 Conhecimentos básicos em HTML5, CSS3, JS e Python;<br>
 👨‍💻 Atualmente trabalhando e estudando <b>JAVA</b> e <b>Dart</b>;<br>
 </div>
