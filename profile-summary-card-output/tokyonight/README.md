@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/MelloWill36/MelloWill36/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
-```
-
-    
