@@ -1,17 +1,11 @@
 <div>
 <h1>Olá, eu sou o William Mello!!! 👋</h1>
-👨‍🎓 6/6 período <b>Design Gráfico</b> pela UTFPR;<br>
-👨‍🎓 5/6 período <b>Análise e Desenvolvimento de Sistemas</b> pela UniDomBosco;<br>
-👨‍💻 Conhecimentos básicos em HTML5, CSS3, JS e Python;<br>
-👨‍💻 Atualmente trabalhando e estudando <b>JAVA</b>, <b>Kotlin</b> e <b>AWS</b>;<br>
+👨‍🎓 <b>Design Gráfico</b> pela UTFPR;<br>
+👨‍🎓 <b>Análise e Desenvolvimento de Sistemas</b> pela UniDomBosco;<br>
+👨‍💻 Software Developer JR. Java | Spring Boot | AWS
 </div>
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/MelloWill36">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelloWill36&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelloWill36&layout=compact&langs_count=16&theme=dark"/>
 
-</div>
 <div style="display: inline_block"><br>
 
  <img align="center" alt="Will-JAVA" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
